@@ -2,6 +2,6 @@
 ## April 22-23, 2014
 
 ### Instructors
-* Jordan McCullough
-* Matthew ...
-* James Fryman
+* Jordan M
+* Matthew M 
+* James F
